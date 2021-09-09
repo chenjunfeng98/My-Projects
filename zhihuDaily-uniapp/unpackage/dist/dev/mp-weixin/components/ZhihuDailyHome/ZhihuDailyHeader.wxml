@@ -1,0 +1,1 @@
+<view class="header"><view class="zhihuDay"><text>{{$root.g0}}</text><view>{{month+"月"}}</view></view><view class="zhihuGreet">{{''+zhihuGreet+''}}</view></view>

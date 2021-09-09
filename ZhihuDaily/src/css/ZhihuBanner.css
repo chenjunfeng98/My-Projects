@@ -1,0 +1,33 @@
+.banner{
+  width: 100%;
+}
+/*字体样式 */
+.title{
+    position: fixed;
+    bottom: 5%;
+    color: #fff;
+    margin:0 .46875rem;
+  }
+  .title h1{
+    font-size: .546875rem;
+    margin-bottom: .15625rem;
+  }
+  .title span{
+    font-size: .3125rem;
+  }
+/* 轮播图大小自适应 */
+.banner img{
+      width: 100% !important;
+      height: 100% !important;
+  }
+
+/* 轮播图按钮的大小设置 */
+.el-carousel__indicator--horizontal{
+    width: .46875rem;
+    height: .03125rem;
+    padding: .1875rem .0625rem;
+  }
+.el-carousel__button{
+    width: .46875rem;
+    height: .03125rem;
+  }

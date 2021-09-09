@@ -1,0 +1,1 @@
+<view><view><rich-text nodes="{{zhihuStory.body}}"></rich-text></view><zhihu-daily-footer vue-id="11cf3e9c-1" bind:__l="__l"></zhihu-daily-footer></view>

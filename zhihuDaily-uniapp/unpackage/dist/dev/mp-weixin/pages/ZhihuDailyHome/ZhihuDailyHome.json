@@ -1,0 +1,7 @@
+{
+  "onReachBottomDistance": 25,
+  "usingComponents": {
+    "zhihu-daily-banner": "/components/ZhihuDailyHome/ZhihuDailyBanner",
+    "zhihu-daily-header": "/components/ZhihuDailyHome/ZhihuDailyHeader"
+  }
+}

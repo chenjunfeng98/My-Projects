@@ -1,0 +1,18 @@
+.footer .el-row{
+    width: 100%;
+    position: fixed ;
+    bottom: 0;
+    background-color:rgb(219, 215, 215);
+    padding: .15625rem 0;
+    
+}
+.el-col{
+    font-size: .5rem;
+    text-align: center;
+    
+}
+
+.footer .el-col a {
+    color: black;
+}
+

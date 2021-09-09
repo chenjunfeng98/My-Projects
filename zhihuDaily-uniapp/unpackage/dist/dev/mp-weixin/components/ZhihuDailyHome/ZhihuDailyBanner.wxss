@@ -1,0 +1,25 @@
+
+swiper{
+		width: 100%;
+		height:700rpx;
+}
+image{
+		width: 100%;
+}
+.zhihuBannerTitle{
+		position: fixed;
+		top: 70%;
+/* 		font-weight: 600; */
+		margin: 0 23.4375rpx 20rpx;
+		color: #fff
+}
+.zhihuBannerTitle view:first-of-type{
+		padding-bottom: 20rpx;
+		font-size: 45rpx;
+}
+.zhihuBannerTitle view:last-of-type{
+		font-weight:400;
+		font-size: 26rpx;
+		margin-bottom: 20rpx;
+}
+
