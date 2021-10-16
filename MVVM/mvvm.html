@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="app">
+        <p>a的值是：{{a.a}}</p>
+        <p>b的值是：{{b}}</p>
+    </div>
+</body>
+<script src="mvvm.js"></script>
+<script>
+    let vm = new MVVM({
+        el:'#app',
+        data:{a:{a:2},b:'hahaha'}
+    })
+        
+
+</script>
+</html>
